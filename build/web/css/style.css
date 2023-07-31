@@ -1,0 +1,58 @@
+a
+{
+    color: black;
+}
+.myrows
+{
+    border:3px solid green;
+    padding: 5px;
+}
+.mycols
+{
+    border:3px solid red;
+}
+.mycontainer
+{
+    background-color: aqua;
+}
+#topHeader
+{
+    background-color: ghostwhite;
+    border-bottom: 1px solid silver;
+}
+#topHeader a
+{
+    color: #2c3e50;
+    font-weight: 600;
+    font-size: 1rem; 
+}
+#bottomHeader .container-fluid
+{
+    padding-left: 0;
+    padding-right: 0;
+}
+.full-footer
+{
+    background-color: #2c3e50;
+    width: 100%
+}
+.full-footer p,a,h3
+{
+    color: white
+}
+.bottomFooter
+{
+    background-color: #151c24;
+}
+.bottomFooter p
+{
+    color: white;
+}
+.breadcrumbs-section a
+{
+  color: black;
+}
+.address p
+{
+  font-weight: 600;
+}
